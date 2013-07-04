@@ -45,9 +45,9 @@
             <configuration>
               <artifacts>
                 <artifact>
-                  <file>e36-m2e130.target</file>
+                  <file>e42-m2e140.target</file>
                   <type>target</type>
-                  <classifier>e36-m2e130</classifier>
+                  <classifier>e42-m2e140</classifier>
                 </artifact>
               </artifacts>
             </configuration>
