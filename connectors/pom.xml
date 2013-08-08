@@ -83,7 +83,7 @@
             <groupId>org.objectledge.maven.connectors</groupId>
             <artifactId>target-platform</artifactId>
             <version>1.4.0-SNAPSHOT</version>
-            <classifier>e43-m2e140</classifier>
+            <classifier>e42-m2e140</classifier>
           </target>
           <environments>
             <environment>
